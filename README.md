@@ -72,10 +72,12 @@ What questions do you have about the data?
 None
 
 What do you think is the main takeaway from this visualization?
+USage of Simple Colors for bars would be more effective.
 Is there something you don’t understand in the graphic?
+None.
 
 Changes after feedback:
-The initial chart lacked the chart legend. As per suggestions from feedback, legends were added to each chart, which made visualization more effective. Colors of the bars were altered.
+The initial chart lacked the chart legend. As per suggestions from feedbacks, legends were added to each chart, which made visualization more effective. Colors of the bars were altered choosing simple colors.
 
 Resources:
 
