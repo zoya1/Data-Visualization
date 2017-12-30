@@ -33,12 +33,16 @@ Feedback:
 #1
 What do you notice in the visualization?
 Male population had lower survival rate in each cabin class than female.
+
 What questions do you have about the data?
 None.
+
 What relationships do you notice?
 Survival is dependent upon sex, age and class.
+
 What do you think is the main takeaway from this visualization?
 If you are female and buy first class ticket you have more chances of survival.
+
 Is there something you don’t understand in the graphic?
 None
 
