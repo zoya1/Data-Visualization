@@ -69,11 +69,18 @@ The initial chart lacked the chart legend. As per suggestions from feedback, leg
 Resources:
 
 https://discussions.udacity.com/
+
 https://classroom.udacity.com/nanodegrees/nd002/parts/00213454010
+
 https://bl.ocks.org/mbostock/7341714
+
 https://leanpub.com/D3-Tips-and-Tricks/read#leanpub-auto-html-1
+
 http://www.jeromecukier.net/blog/2011/08/11/d3-scales-and-color/
+
 https://bost.ocks.org/mike/bar/
+
 http://alignedleft.com/tutorials/d3/binding-data
+
 https://jrue.github.io/coding/2014/exercises/basicbarchart/
 
